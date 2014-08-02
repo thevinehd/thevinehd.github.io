@@ -28,8 +28,6 @@ $(document).ready(function(){
 	
 	//code for the background slider
 	$.backstretch([
-      "img/bg_img.jpg",
-      "img/bg_img2.jpg",
       "http://i.imgur.com/aPhiekv.png"
     ], {
         fade: 750,
